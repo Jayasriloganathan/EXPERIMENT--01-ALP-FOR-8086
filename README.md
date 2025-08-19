@@ -70,11 +70,11 @@ ret
 ```
 
 ## Output
-```
+
 
 <img width="1795" height="1013" alt="Screenshot 2025-08-19 091822" src="https://github.com/user-attachments/assets/31ebec37-f789-4a31-a0b6-b38fdcfab810" />
 
-```
+
 
 ## Result :
 ```
@@ -110,10 +110,8 @@ ret
 
 ## Output
 
-```
 <img width="1775" height="1011" alt="Screenshot 2025-08-19 091036" src="https://github.com/user-attachments/assets/9f57f1d0-a3ce-48ea-8336-28d779ced5fc" />
 
-```
 
 ## Result
 ```
